@@ -1,3 +1,7 @@
+#IMPORTANT NOTE:
+
+The dev owner has commited some malicious codes. It is only the last commit before the hell.
+
 # colors.js
 [![Build Status](https://travis-ci.org/Marak/colors.js.svg?branch=master)](https://travis-ci.org/Marak/colors.js)
 [![version](https://img.shields.io/npm/v/colors.svg)](https://www.npmjs.org/package/colors)
